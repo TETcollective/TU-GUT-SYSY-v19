@@ -11,6 +11,9 @@ No new fields, no tuning — pure consequence of v9–v18 framework.
 **Paper**  
 TU-GUT-SYSY_v19.pdf (in this repo)
 
-**DOI** (coming in 2 min): will be assigned upon publication
+**DOI**  
+https://doi.org/10.5281/zenodo.17870523
 
-### Riga pronta per tetcollective.org (copia-incolla quando esce il DOI)
+https://github.com/TETcollective/TU-GUT-SYSY-v19
+
+

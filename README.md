@@ -16,4 +16,3 @@ https://doi.org/10.5281/zenodo.17870523
 
 https://github.com/TETcollective/TU-GUT-SYSY-v19
 
-
